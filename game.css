@@ -1,0 +1,71 @@
+
+#startbtn {
+    background-color: rgb(129, 177, 205);
+    border: 1px solid rgb(86, 136, 164);
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#score {
+    border: 1px solid rgb(189, 187, 104);
+    background-color: rgb(227, 225, 147);
+    border-radius: 4px;
+    padding: 7px;
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: 10px;
+
+}
+
+h3 {
+    background-color: rgb(120, 85, 216);
+    border: 1px solid rgb(101, 67, 196);
+    border-radius: 4px;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 10px;
+
+}
+
+#details {
+    background-color: rgb(183, 138, 226);
+    border: 1px solid rgb(133, 97, 166);
+    border-radius: 4px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px 10px;
+
+}
+
+.game {
+    background-color: rgb(186, 204, 253);
+    border: 2px solid rgb(142, 159, 206);
+    border-radius: 5px;
+    width: 50vw;
+    display: block;
+    margin: auto;
+    margin-top: 20vh;
+
+}
+
+#ans {
+    display: block;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+#submit {
+    display: none;
+    background-color: rgb(129, 177, 205);
+    border: 1px solid rgb(86, 136, 164);
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 10px;
+}
+    
